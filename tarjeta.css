@@ -1,0 +1,37 @@
+body {background-color: rgb(36, 28, 67);}
+#fondo {margin-left: 20px;
+    margin-right: 20px;
+    border-bottom: solid purple 2px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;}
+    
+#pfp {border-radius: 50%;
+    border: solid purple 3px;
+    position:absolute;
+        top: 160px;
+        left:208px;}
+#tarjeta {
+    width: 504px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    margin: 20px;
+    margin-top: 0%;
+    font-family: Georgia;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+button {margin-left: 220px;
+    padding: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10% / 30% ;
+    border-color: rgb(0, 0,  255);}
+h2{
+    text-align:center;}
+h4 {
+    text-align: center;
+    color: rgb(217, 85, 85);}
+th, td {width:168;
+    text-align: center;}
+td {border-right: solid rgb(184, 184, 184) 1px;}
+.right {border-right: solid rgb(255, 255, 255) 1px;}
